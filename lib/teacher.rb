@@ -7,4 +7,4 @@ class Teacher < User
   end 
 
 
-end	end
+end	
